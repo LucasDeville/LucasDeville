@@ -1,4 +1,4 @@
-### 👋 Welcome on my personnal Git !
+### 👋 Welcome on my personal Git !
 
 ### 📚 Currently learning more coding skills at Perpignan 42.
 
