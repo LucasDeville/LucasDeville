@@ -4,6 +4,7 @@
 
 ### 🚀 Check out my GitHub repositories to explore my 42 projects and more !
 
+### 🔗More information about me [here](https://lucasdeville.github.io/) !
 
 ### 🌐 Connect with me :
 ### 🔗 [GitHub](https://github.com/LucasDeville)
